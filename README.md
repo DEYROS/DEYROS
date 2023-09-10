@@ -2,10 +2,10 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- 💻 I'm a Web & Software Developer, currently working on my Unity video game
+- 🇫🇷 I am French, here is my portfolio : https://adrien.nertyrp.fr/
+- 💻 I'm a Web & Software Developer, currently working on my Unity video game and my gmod server !
 - 🚀 Student in computer science
-- 🏆 Founder of Nerty, a garry's mod server
-- ⚡ In constant search of new objectives !
+- 🏆 Founder of Nerty, a garry's mod server and a community
 
 <h2 align="left">📊 Statistics:</h2>
 
